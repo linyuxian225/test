@@ -13,7 +13,7 @@
 - [ ] todo list
 - [X] done
 
-ˋˋˋpython
-s = "Python syntax highlighting"
+```python
+s = "Python Syntax Highlighting"
 print(s)
-ˋˋˋ
+```
