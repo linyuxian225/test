@@ -35,5 +35,5 @@ alert (s);
 1. First order
 2. Another
   >Unordered
-3.Actual numbers don
+3. Actual numbers don
 
